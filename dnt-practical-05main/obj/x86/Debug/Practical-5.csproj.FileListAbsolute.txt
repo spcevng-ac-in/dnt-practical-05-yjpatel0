@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2010\Projects\Practical-5\Practical-5\bin\Debug\Practical-5.exe
+c:\users\hp\documents\visual studio 2010\Projects\Practical-5\Practical-5\bin\Debug\Practical-5.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Practical-5\Practical-5\obj\x86\Debug\Practical-5.exe
+c:\users\hp\documents\visual studio 2010\Projects\Practical-5\Practical-5\obj\x86\Debug\Practical-5.pdb
+C:\Users\Hp\documents\visual studio 2010\Projects\Practical-5\Practical-5\obj\x86\Debug\Practical-5.csprojResolveAssemblyReference.cache
+D:\DotNet\Practical-5\obj\x86\Debug\Practical-5.exe
+D:\DotNet\Practical-5\obj\x86\Debug\Practical-5.pdb
+D:\DotNet\Practical-5\bin\Debug\Practical-5.exe
+D:\DotNet\Practical-5\bin\Debug\Practical-5.pdb
+D:\DotNet\Practical-5\obj\x86\Debug\Practical-5.csprojResolveAssemblyReference.cache
